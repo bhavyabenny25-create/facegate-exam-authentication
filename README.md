@@ -1,2 +1,8 @@
 # facegate-exam-authentication
-FaceGate is an AI-powered exam authentication system using face recognition to automate attendance and hall verification.
+AI-powered mobile exam management system
+Replaces hall tickets & manual attendance
+Auto allocation of students & invigilators to rooms and seats
+Facial recognition for real-time authentication
+Automatic attendance marking
+Secure, tamper-proof system
+Reduces workload, errors & paperwork
