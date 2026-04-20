@@ -1,8 +1,2 @@
 # facegate-exam-authentication
-AI-powered mobile exam management system
-Replaces hall tickets & manual attendance
-Auto allocation of students & invigilators to rooms and seats
-Facial recognition for real-time authentication
-Automatic attendance marking
-Secure, tamper-proof system
-Reduces workload, errors & paperwork
+FaceGate is an AI-powered mobile examination management system that replaces traditional hall tickets and manual attendance with a secure, fully digital solution. It features digital admit cards, automated allocation of students and staff to rooms and seats, and facial recognition for real-time authentication—enhancing security, efficiency, and reducing administrative overhead and paperwork.
